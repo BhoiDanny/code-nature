@@ -1,0 +1,41 @@
+/*
+Project Name: Exploring Nature
+Author: Daniel Botchway
+Developed at Codetopia Webinar
+*/
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: "Montserrat", sans-serif;
+    background-image: url("../images/nature-2.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+h2 {
+    background-color: #CEF8FF;
+    padding: 10px;
+    color: black;
+    border-radius: 12px;
+}
+a {
+    text-decoration: none;
+    color: tomato;
+    padding: 5px;
+}
+.content {
+    max-width: 440px;
+    background-color: #001727;
+    color: white;
+    padding: 20px;
+}
+
